@@ -29,7 +29,7 @@ The goal is to:
 
 - **Dataset Name**: `Airbnb_data` [Download Dataset](https://docs.google.com/spreadsheets/d/1N7P0euUjfjB8XXdTBQeicjGjxAOm18wvCRLaQC92a8g/edit?usp=sharing)
 - The dataset includes variables related to listing attributes, host metrics, and location details.
-- Full data documentation is provided in the **Data Information(https://docs.google.com/document/d/1BhJoNJ9RgTgAHbAiOXh6tgTSjtuFkPox/edit?usp=sharing&ouid=103283051675327639429&rtpof=true&sd=true)** document.
+- Full data documentation is provided in the **[Data Information](https://docs.google.com/document/d/1BhJoNJ9RgTgAHbAiOXh6tgTSjtuFkPox/edit?usp=sharing&ouid=103283051675327639429&rtpof=true&sd=true)** document.
 
 ---
 
